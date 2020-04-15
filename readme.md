@@ -1,1 +1,1 @@
-# React Boilerplate
+# ES6 Starter
